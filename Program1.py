@@ -5,6 +5,7 @@
 # Lab Section: 12
 # Sources, people worked with, help given to: 
 # COSC1010_lec9-Dictionaries
+#Ezra Visser
 
 # Homework Question:
 # 
